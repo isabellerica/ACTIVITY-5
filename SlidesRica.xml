@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+    <image>
+        <url>https://upload.wikimedia.org/wikipedia/commons/e/e1/Mayon_Volcano_as_of_March_2020.jpg</url>
+        <caption>Mayon Volcano</caption>
+    </image>
+    <image>
+        <url>https://ordinarytraveler.com/wp-content/uploads/2023/03/lake-brienz-switzerland.jpg</url>
+        <caption>Lake Brienz</caption>
+    </image>
+    <image>
+        <url>https://gttp.imgix.net/257510/x/0/mount-mayon-tours.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=1200&ar=1.91:1&fit=crop</url>
+        <caption>Mt. Mayon</caption>
+    </image>
+</slideshow>
